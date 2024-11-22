@@ -19,9 +19,9 @@ npm install
 composer run dev
 
 
-Login para fins de teste:
+Login para fins de teste (Se preferir, pode acessar o formulário de registro normalmente):
 
-login: admin@example.com
+login: user@example.com
 
 senha: password
 
